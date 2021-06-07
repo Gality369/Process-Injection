@@ -51,5 +51,5 @@
 
 也欢迎关注公众号，一起来交流讨论学习q(≧▽≦q)~
 
-![公众号.png](https://github.com/Gality369/Process-Injection/tree/main/img/gzh.png)
+![公众号.png](https://github.com/Gality369/Process-Injection/blob/main/img/gzh.png)
 
