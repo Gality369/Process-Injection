@@ -23,7 +23,7 @@
 | 第三课 | 远程线程注入进阶   | 利用未导出API躲避杀软          | https://mp.weixin.qq.com/s/0zBPrC42zB6fkDZAEn92ww | √    |
 | 第四课 | 远程线程注入进阶二 | 用类似调试器的思想来注入       | https://mp.weixin.qq.com/s/O80hGlJWRMkH-r1SoWzE8A | √    |
 | 第五课 | 创建进程挂起注入   | 以CREATE_SUSPENDED标志创建进程 | https://mp.weixin.qq.com/s/QifTJZGg4dtO9YtSv8a5Ug | √    |
-| 第六课 | APC注入            | 用户态下APC注入方式            | 3天内更新                                         |      |
+| 第六课 | APC注入            | 用户态下APC注入方式            | https://mp.weixin.qq.com/s/1h3msxhF6I_JLKAXU-1oeg |√     |
 | 第七课 | APC注入进阶        | 内核态下APC注入方式            | 1周内更新                                         |      |
 | ...    | ...                | ...                            | ...                                               |      |
 
