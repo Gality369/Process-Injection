@@ -24,8 +24,9 @@
 | 第四课     | 远程线程注入进阶二 | 用类似调试器的思想来注入                         | https://mp.weixin.qq.com/s/O80hGlJWRMkH-r1SoWzE8A | √    |
 | 第五课     | 创建进程挂起注入   | 以CREATE_SUSPENDED标志创建进程                   | https://mp.weixin.qq.com/s/QifTJZGg4dtO9YtSv8a5Ug | √    |
 | 第六课     | APC注入            | 用户态下APC注入方式                              | https://mp.weixin.qq.com/s/1h3msxhF6I_JLKAXU-1oeg | √    |
-| ~~第七课~~ | ~~APC注入进阶~~    | ~~内核态下APC注入方式~~                          | ~~1周内更新~~(遇到许多问题，后续填坑)             | ×    |
+| ~~第七课~~ | ~~APC注入进阶~~    | ~~内核态下APC注入方式~~                          | ~~n周内更新~~(遇到许多问题，后续填坑)             | ×    |
 | 第七课     | APC注入进阶        | 创建挂起进程APC注入+利用NtTestAlert在本地APC注入 | https://mp.weixin.qq.com/s/iaYT5iKBYIm-iTLn_4jR7Q | √    |
+| 第八课     | FunctionStomping  | 掏空执行模块的指定函数实现注入                   | ...                                               | √    |
 | ...        | ...                | ...                                              | ...                                               |      |
 
 至少是10节~会持续更新的
